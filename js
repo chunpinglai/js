@@ -1,0 +1,1 @@
+Greeter,(function(){ Greeter.blog()})()
